@@ -5,12 +5,12 @@ Welcome to my GitHub profile! I'm a passionate backend developer with over 3 yea
 Skills
 Here are some of the technologies and skills I excel at:
 
-Programming Languages: Python, PHP, javascript
-Backend Development: Flask, Django, Laravel, VueJs
-Databases: SQL (MySQL, PostgreSQL), NoSQL (MongoDB)
-RESTful APIs: Design and implementation
-Version Control: Git
-DevOps: Docker, Jenkins
+- Programming Languages: Python, PHP, javascript
+- Backend Development: Flask, Django, Laravel, VueJs
+- Databases: SQL (MySQL, PostgreSQL), NoSQL (MongoDB)
+- RESTful APIs: Design and implementation
+- Version Control: Git
+- DevOps: Docker, Jenkins
 
 Get in Touch
 I'm always open to collaboration and new opportunities. Feel free to reach out to me via  [email](tamnn25@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/nguyen-nhat-tam-1a752b125/).
