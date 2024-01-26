@@ -13,7 +13,7 @@ Version Control: Git
 DevOps: Docker, Jenkins
 
 Get in Touch
-I'm always open to collaboration and new opportunities. Feel free to reach out to me via  [email](tamnn25@gmail.com) or connect with me on [LinkedIn]([https://www.linkedin.com/in/nguyen-nhat-tam-1a752b125/]).
+I'm always open to collaboration and new opportunities. Feel free to reach out to me via  [email](tamnn25@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/nguyen-nhat-tam-1a752b125/).
 
 Let's build something amazing together!
 <!--
