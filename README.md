@@ -6,7 +6,7 @@ Skills
 Here are some of the technologies and skills I excel at:
 
 - Programming Languages: Python, PHP, javascript
-- Backend Development: Flask, Django, Laravel, VueJs
+- Backend Development: Django, FastAPI, Laravel, VueJs
 - Databases: SQL (MySQL, PostgreSQL), NoSQL (MongoDB)
 - RESTful APIs: Design and implementation
 - Version Control: Git
