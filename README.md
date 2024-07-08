@@ -5,8 +5,8 @@ Welcome to my GitHub profile! I'm a passionate backend developer with over 3 yea
 Skills
 Here are some of the technologies and skills I excel at:
 
-- Programming Languages: Python, PHP, javascript
-- Backend Development: Django, FastAPI, Laravel, VueJs
+- Programming Languages: C#, Python, PHP, javascript
+- Backend Development: ASP.NET MVC, Django, FastAPI, Laravel, VueJs
 - Databases: SQL (MySQL, PostgreSQL), NoSQL (MongoDB)
 - RESTful APIs: Design and implementation
 - Version Control: Git
